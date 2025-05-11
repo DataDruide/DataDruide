@@ -20,11 +20,10 @@ I'm a passionate Fullstack Developer building seamless mobile & backend experien
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 📫 Let's Connect
+## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/dein-profil)
-- ✉️ marcelzimmermann@proton.me
-- 🌐 Portfolio: *coming soon*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcel-zimmermann-bb8802211/)
+- ✉️ SecureChatMessenger@proton.me
 
 ---
 
