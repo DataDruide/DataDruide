@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Fullstack Developer building seamless mobile & backend experiences – with a strong focus on **privacy, security & usability**.
+I'm a passionate Junior Fullstack Developer building seamless mobile & backend experiences – with a strong focus on **privacy, security & usability**.
 
 ### 📱 Mobile Development (Flutter & SwiftUI)
 
