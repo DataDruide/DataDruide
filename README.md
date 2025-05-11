@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Marcel – Flutter, SwiftUI & NestJS Developer
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DataDruide.DataDruide&left_color=gray&right_color=blue)
+
 ## 🚀 About Me
 
 I'm a passionate Fullstack Developer building seamless mobile & backend experiences – with a strong focus on **privacy, security & usability**.
@@ -51,6 +53,26 @@ I'm a passionate Fullstack Developer building seamless mobile & backend experien
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-8B0000?style=flat&logo=gnuprivacyguard&logoColor=white)
 ![Argon2](https://img.shields.io/badge/Argon2-36454F?style=flat&logoColor=white)
+
+---
+
+## 📌 Pinned Projects
+
+- 🔐 [**Secure Chat Messenger**](https://github.com/DataDruide/secure-chat-messenger)  
+  End-to-end encrypted chat with PGP · Flutter & NestJS · Secure onboarding · Anonymous sessions
+
+- 🛡️ [**Onboarding Flow**](https://github.com/DataDruide/flutter-onboarding)  
+  Advanced Flutter Stepper with PGP registration and secure temporary password flow
+
+- 🧠 [**PflegeBlick**](https://github.com/DataDruide/pflegeblick)  
+  A healthcare app for patients & caregivers – info, tools & digital applications
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataDruide&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataDruide&layout=compact&theme=radical)
 
 ---
 
