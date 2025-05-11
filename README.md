@@ -1,17 +1,25 @@
-# 👋 Hi, I'm Marcel – Flutter & NestJS Developer
+# 👋 Hi, I'm Marcel – Flutter, SwiftUI & NestJS Developer
 
 ## 🚀 About Me
 
-I'm a passionate Fullstack Developer building seamless mobile & backend experiences.
+I'm a passionate Fullstack Developer building seamless mobile & backend experiences – with a strong focus on **privacy, security & usability**.
 
-- 📱 **Flutter** for iOS & Android – clean UI, responsive design, animations, LottieFiles
-- 🧠 **State Management**: Riverpod · Bloc · Provider
-- 💾 **Local Storage**: Hive · Secure Storage · Shared Preferences
-- 🧪 Testing & automation using GitHub Workflows
-- 🛠️ **NestJS (TypeScript)** – REST APIs, PostgreSQL, Docker, Supabase
-- 🔐 **Security-first** mindset: JWT · PGP · Argon2 password hashing
-- 📡 Real-time with WebSockets · Firebase · Supabase
-- 🎯 Clean Architecture · Modular Code · DevOps-friendly  
+### 📱 Mobile Development (Flutter & SwiftUI)
+
+- Clean UI, responsive design & animations with Flutter (iOS & Android)
+- Developed **Schadensregulierungsapps**, **Holiday Finder**, and **CarPlay-integrated iOS apps**
+- Experience in **SwiftUI**: modern UIs, MVVM, and UIKit-interop
+- Used LottieFiles for animation-rich UIs and dynamic onboarding
+- Strong experience in **state management**: Riverpod · Bloc · Provider
+- Local data with Hive · Secure Storage · Shared Preferences
+
+### 🛠 Backend & Security (NestJS & TypeScript)
+
+- RESTful API development with NestJS · TypeORM · PostgreSQL
+- Authentication & authorization with JWT, PGP, Argon2 password hashing
+- Real-time systems with WebSockets, Supabase & Firebase
+- Clean architecture, modular code & GitHub Workflow automation
+- Containerized DevOps setup with Docker & .env-driven config
 
 ---
 
@@ -21,6 +29,8 @@ I'm a passionate Fullstack Developer building seamless mobile & backend experien
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat&logo=apple&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-FC7303?style=flat&logo=lottie&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0E9F6E?style=flat&logo=pub&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-52B788?style=flat&logo=pub&logoColor=white)
