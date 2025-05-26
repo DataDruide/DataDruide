@@ -61,9 +61,8 @@ I'm a passionate Junior Fullstack Developer building seamless mobile & backend e
 - 🔐 [**Secure Chat Messenger**](https://github.com/DataDruide/secure-chat-messenger)  
   End-to-end encrypted chat with PGP · Flutter & NestJS · Secure onboarding · Anonymous sessions
 
-- 🛡️ [**Onboarding Flow**](https://github.com/DataDruide/flutter-onboarding)  
-  Advanced Flutter Stepper with PGP registration and secure temporary password flow
-
+- 🛡️ [**Web Frontend Ripple umsetzen**](https://github.com/DataDruide/flutter-onboarding)  
+A TicToc Alternative but in a german version
 - 🧠 [**PflegeBlick**](https://github.com/DataDruide/pflegeblick)  
   A healthcare app for patients & caregivers – info, tools & digital applications
 
