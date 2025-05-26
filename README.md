@@ -58,7 +58,7 @@ I'm a passionate Junior Fullstack Developer building seamless mobile & backend e
 
 ## 📌 Pinned Projects
 
-- 🔐 [**Secure Chat Messenger**](https://github.com/DataDruide/secure-chat-messenger)  
+- 🔐 [**Ripple Mobile Version with Messaging**](https://github.com/DataDruide/secure-chat-messenger)  
   End-to-end encrypted chat with PGP · Flutter & NestJS · Secure onboarding · Anonymous sessions
 
 - 🛡️ [**Web Frontend Ripple umsetzen**](https://github.com/DataDruide/flutter-onboarding)  
