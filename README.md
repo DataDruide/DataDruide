@@ -81,7 +81,6 @@ I'm a passionate Junior Fullstack Developer building seamless mobile & backend e
 ![SecureStorage](https://img.shields.io/badge/Secure%20Storage-556B2F?style=flat&logoColor=white)
 ![DeviceBinding](https://img.shields.io/badge/Device%20Binding-4B0082?style=flat&logoColor=white)
 ![UUID](https://img.shields.io/badge/UUID%20Auth-8B008B?style=flat&logoColor=white)
-![OutOfBand](https://img.shields.io/badge/Out-of-Band%20Verification-DAA520?style=flat&logoColor=white)
 ![SelfDestruct](https://img.shields.io/badge/Self%20Destructing%20Msgs-CD5C5C?style=flat&logoColor=white)
 
 
