@@ -48,11 +48,42 @@ I'm a passionate Junior Fullstack Developer building seamless mobile & backend e
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Security**
+## 🔐 Security Tech Stack
 
+### Klassische & bewährte Sicherheit
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-8B0000?style=flat&logo=gnuprivacyguard&logoColor=white)
 ![Argon2](https://img.shields.io/badge/Argon2-36454F?style=flat&logoColor=white)
+
+---
+
+### 🧠 Post-Quantum & Kryptografie der nächsten Generation
+![Kyber](https://img.shields.io/badge/Kyber-004AAD?style=flat&logoColor=white)
+![Dilithium](https://img.shields.io/badge/Dilithium-003153?style=flat&logoColor=white)
+![X3DH](https://img.shields.io/badge/X3DH-4682B4?style=flat&logoColor=white)
+![DoubleRatchet](https://img.shields.io/badge/Double%20Ratchet-2F4F4F?style=flat&logoColor=white)
+![ForwardSecrecy](https://img.shields.io/badge/Forward%20Secrecy-708090?style=flat&logoColor=white)
+![ZKProof](https://img.shields.io/badge/ZK%20Proofs-6A5ACD?style=flat&logoColor=white)
+
+---
+
+### 🌐 Netzwerksicherheit & Dezentralisierung
+![libp2p](https://img.shields.io/badge/libp2p-1D2951?style=flat&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-FF7F50?style=flat&logo=webrtc&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7E1E9C?style=flat&logo=torproject&logoColor=white)
+![Mixnet](https://img.shields.io/badge/Mixnet-191970?style=flat&logoColor=white)
+![Ibex](https://img.shields.io/badge/Ibex%20Protocol-FF4500?style=flat&logoColor=white)
+![MetadataProtection](https://img.shields.io/badge/Metadata%20Protection-2E8B57?style=flat&logoColor=white)
+
+---
+
+### 🛡️ Privacy & Trustless Identity
+![SecureStorage](https://img.shields.io/badge/Secure%20Storage-556B2F?style=flat&logoColor=white)
+![DeviceBinding](https://img.shields.io/badge/Device%20Binding-4B0082?style=flat&logoColor=white)
+![UUID](https://img.shields.io/badge/UUID%20Auth-8B008B?style=flat&logoColor=white)
+![OutOfBand](https://img.shields.io/badge/Out-of-Band%20Verification-DAA520?style=flat&logoColor=white)
+![SelfDestruct](https://img.shields.io/badge/Self%20Destructing%20Msgs-CD5C5C?style=flat&logoColor=white)
+
 
 ---
 
