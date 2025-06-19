@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcel – Flutter, SwiftUI & NestJS Developer
+# 👋 Hi, I'm Marcel – Junior Full Stack Developer (Python · Flutter · SwiftUI · NestJS)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DataDruide.DataDruide&left_color=gray&right_color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/DataDruide?label=Follow&style=social)
