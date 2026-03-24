@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcel – Junior Full Stack Developer  
+# 👋 Hi, I'm Marcel – Senior Full Stack Developer  
 ### Python · Flutter · SwiftUI · NestJS · Privacy Engineering  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DataDruide.DataDruide&left_color=gray&right_color=blue)
