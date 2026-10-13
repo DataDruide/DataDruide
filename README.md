@@ -1,30 +1,36 @@
-# 👋 Hi, I'm Marcel – Senior Full Stack Developer  
-### Python · Flutter · SwiftUI · NestJS · Privacy Engineering  
+<h1 align="center">👋 Hi, I'm Marcel</h1>
+<h3 align="center">Senior Full Stack Developer — Python · Flutter · SwiftUI · NestJS · Privacy Engineering</h3>
+
+<div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DataDruide.DataDruide&left_color=gray&right_color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/DataDruide?label=Follow&style=social)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate **Full Stack Developer & Privacy Engineer** building secure, scalable mobile & backend experiences – with a strong focus on **encryption, usability & zero-compromise architecture**.
+> Full Stack Developer & Privacy Engineer — building secure, scalable mobile & backend systems with a strong focus on **encryption, usability & zero-compromise architecture**.
 
-🔭 **Currently:**
-- Building [**skill-experience.com**](https://skill-experience.com) – my portfolio & B2B project hub
+**🔭 Currently**
+- Building [**skill-experience.com**](https://skill-experience.com) — portfolio & B2B project hub
 - Developing end-to-end encrypted apps with **Post-Quantum Cryptography**
-- Exploring **Flutter**, **NestJS**, and **SwiftUI** with real-time sync & local-first architecture
+- Exploring **Flutter**, **NestJS** & **SwiftUI** (real-time sync, local-first architecture)
 
-🌱 **Always learning:**
-- Advanced state management (Riverpod · BLoC)
-- PQC integration (Kyber · Dilithium)
-- Secure DevOps with Docker & GitHub Actions
+**🌱 Currently learning**
+- Advanced state management — *Riverpod · BLoC*
+- PQC integration — *Kyber · Dilithium*
+- Secure DevOps — *Docker · GitHub Actions*
 
 ---
 
 ## 🧰 Tech Stack
 
-### 📱 Mobile (Flutter & SwiftUI)
+### 📱 Mobile
+*Flutter-first, with native SwiftUI when it matters.*
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -35,6 +41,8 @@ I'm a passionate **Full Stack Developer & Privacy Engineer** building secure, sc
 ![Lottie](https://img.shields.io/badge/Lottie-FC7303?style=for-the-badge&logo=lottie&logoColor=white)
 
 ### 🖥️ Backend & DevOps
+*Typed end-to-end, containerized, automated.*
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,17 +56,23 @@ I'm a passionate **Full Stack Developer & Privacy Engineer** building secure, sc
 ## 🔐 Security Stack
 
 ### Classical
+*Battle-tested foundations.*
+
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Argon2](https://img.shields.io/badge/Argon2-36454F?style=for-the-badge&logoColor=white)
 
 ### Post-Quantum
+*Ready for the next decade of threats.*
+
 ![Kyber](https://img.shields.io/badge/Kyber-004AAD?style=for-the-badge&logoColor=white)
 ![Dilithium](https://img.shields.io/badge/Dilithium-003153?style=for-the-badge&logoColor=white)
 ![X3DH](https://img.shields.io/badge/X3DH-4682B4?style=for-the-badge&logoColor=white)
 ![Double Ratchet](https://img.shields.io/badge/Double%20Ratchet-2F4F4F?style=for-the-badge&logoColor=white)
 
 ### Network & Privacy
+*Decentralized, metadata-resistant, hardened.*
+
 ![libp2p](https://img.shields.io/badge/libp2p-1D2951?style=for-the-badge&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-FF7F50?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7E1E9C?style=for-the-badge&logo=torproject&logoColor=white)
@@ -68,27 +82,36 @@ I'm a passionate **Full Stack Developer & Privacy Engineer** building secure, sc
 
 ## 🏆 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**🌐 skill-experience.com**](https://skill-experience.com) | My personal portfolio & B2B project hub | React · Vite · TypeScript · Netlify |
-| [🔐 Ripple Mobile](https://github.com/DataDruide/secure-chat-messenger) | E2E encrypted chat with PGP + post-quantum readiness | Flutter · NestJS · PGP |
-| [🛡️ Web Frontend Ripple](https://github.com/DataDruide/flutter-onboarding) | TikTok-like platform with privacy-first design | Flutter · Firebase · Riverpod |
-| [🧠 PflegeBlick](https://github.com/DataDruide/pflegeblick) | Healthcare app for patients & caregivers | Flutter · REST API · Hive |
+| Project | What it is | Stack | Status |
+|---------|------------|-------|--------|
+| [**🌐 skill-experience.com**](https://skill-experience.com) | Portfolio & B2B project hub | React · Vite · TS · Netlify | 🟢 Live |
+| [🔐 Ripple Mobile](https://github.com/DataDruide/secure-chat-messenger) | E2E encrypted chat, PGP + PQC-ready | Flutter · NestJS · PGP | 🟡 Beta |
+| [🛡️ Web Frontend Ripple](https://github.com/DataDruide/flutter-onboarding) | Privacy-first social platform | Flutter · Firebase · Riverpod | 🟡 Beta |
+| [🧠 PflegeBlick](https://github.com/DataDruide/pflegeblick) | Healthcare for patients & caregivers | Flutter · REST · Hive | 🟢 Live |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=DataDruide&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataDruide&layout=compact&theme=radical" alt="Top Languages" width="48%">
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataDruide&theme=radical" alt="GitHub Streak" width="70%">
+
 </div>
 
 ---
 
 ## 🌍 Let's Connect
 
+> Open to freelance projects, B2B collaborations & privacy-focused builds.
+
 <div align="center">
+
   <a href="https://skill-experience.com">
     <img src="https://img.shields.io/badge/Portfolio-skill--experience.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
@@ -101,11 +124,15 @@ I'm a passionate **Full Stack Developer & Privacy Engineer** building secure, sc
   <a href="https://github.com/DataDruide">
     <img src="https://img.shields.io/badge/GitHub-DataDruide-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <i>„Maximum Privacy. Zero Compromise.“</i><br>
-  <b>Devise · Build · Secure</b>
+
+  <i>„Maximum Privacy. Zero Compromise.“</i>
+
+  **Devise · Build · Secure**
+
 </div>
