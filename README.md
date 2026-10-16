@@ -15,14 +15,14 @@
 > Full Stack Developer & Privacy Engineer — building secure, scalable mobile & backend systems with a strong focus on **encryption, usability & zero-compromise architecture**.
 
 **🔭 Currently**
-- Building [**skill-experience.com**](https://skill-experience.com) — portfolio & B2B project hub
-- Developing end-to-end encrypted apps with **Post-Quantum Cryptography**
-- Exploring **Flutter**, **NestJS** & **SwiftUI** (real-time sync, local-first architecture)
+- Building [**Erebos**](https://github.com/DataDruide/erebos-network) — a privacy-first anonymizing network with hybrid post-quantum cryptography (X25519 + ML-KEM-1024), adaptive cover traffic, reproducible builds, and a [published threat model](https://github.com/DataDruide/erebos-network/blob/main/SECURITY.md)
+- Working on [**Erebos Browser**](https://github.com/DataDruide/erebos-browser) — an I2P browser (Firefox ESR 128 based) with a live governance UI backed by the Erebos Network daemon
+- Consulting on PQC migration for end-to-end encrypted apps (Kyber · Dilithium · X3DH · Double Ratchet)
 
 **🌱 Currently learning**
 - Advanced state management — *Riverpod · BLoC*
-- PQC integration — *Kyber · Dilithium*
-- Secure DevOps — *Docker · GitHub Actions*
+- Secure DevOps — *reproducible builds · supply-chain verification · GitHub Actions*
+- Browser engine hardening — *fingerprint uniformity vs. randomization*
 
 ---
 
@@ -45,6 +45,7 @@
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -61,11 +62,13 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![PGP](https://img.shields.io/badge/PGP-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Argon2](https://img.shields.io/badge/Argon2-36454F?style=for-the-badge&logoColor=white)
+![ChaCha20-Poly1305](https://img.shields.io/badge/ChaCha20--Poly1305-1B1B1B?style=for-the-badge&logoColor=white)
 
 ### Post-Quantum
 *Ready for the next decade of threats.*
 
-![Kyber](https://img.shields.io/badge/Kyber-004AAD?style=for-the-badge&logoColor=white)
+![ML-KEM-1024](https://img.shields.io/badge/ML--KEM--1024%20(FIPS%20203)-004AAD?style=for-the-badge&logoColor=white)
+![X25519](https://img.shields.io/badge/X25519-00518F?style=for-the-badge&logoColor=white)
 ![Dilithium](https://img.shields.io/badge/Dilithium-003153?style=for-the-badge&logoColor=white)
 ![X3DH](https://img.shields.io/badge/X3DH-4682B4?style=for-the-badge&logoColor=white)
 ![Double Ratchet](https://img.shields.io/badge/Double%20Ratchet-2F4F4F?style=for-the-badge&logoColor=white)
@@ -76,7 +79,10 @@
 ![libp2p](https://img.shields.io/badge/libp2p-1D2951?style=for-the-badge&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-FF7F50?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7E1E9C?style=for-the-badge&logo=torproject&logoColor=white)
-![Secure Storage](https://img.shields.io/badge/Secure%20Storage-556B2F?style=for-the-badge&logoColor=white)
+![I2P](https://img.shields.io/badge/I2P-7B1FA2?style=for-the-badge&logoColor=white)
+![Cover Traffic](https://img.shields.io/badge/Cover%20Traffic-455A64?style=for-the-badge&logoColor=white)
+
+> **Live implementation:** [Erebos Network](https://github.com/DataDruide/erebos-network) — hybrid ML-KEM-1024 handshake, ChaCha20-Poly1305 session encryption, adaptive cover traffic, and reproducible builds. See [SECURITY.md](https://github.com/DataDruide/erebos-network/blob/main/SECURITY.md) for the threat model and known limits.
 
 ---
 
@@ -84,9 +90,11 @@
 
 | Project | What it is | Stack | Status |
 |---------|------------|-------|--------|
-| [**🌐 skill-experience.com**](https://skill-experience.com) | Portfolio & B2B project hub | React · Vite · TS · Netlify | 🟢 Live |
+| [**🕵️ Erebos Browser**](https://github.com/DataDruide/erebos-browser) | I2P browser (Firefox ESR 128) with live governance & community UI backed by the Erebos Network daemon | C++ · JavaScript · Firefox ESR 128 | 🟡 Beta |
+| [**🌐 Erebos Network**](https://github.com/DataDruide/erebos-network) | Privacy-first anonymizing network — PQC hybrid handshake, adaptive cover traffic, reproducible builds, published threat model | Python · ML-KEM-1024 · X25519 · ChaCha20-Poly1305 · liboqs | 🟢 v0.3.4 |
+| [**📇 Punzenverzeichnis**](https://github.com/DataDruide/punzenverzeichnis) | Reference catalogue of hallmarks & maker's marks for gold- and silversmiths | TypeScript · React · PostgreSQL | 🟢 Complete |
+| [**🧹 VendClean24**](https://github.com/DataDruide) | Vending machine cleaning & maintenance platform | Flutter · REST | 🟢 Complete |
 | [🔐 Ripple Mobile](https://github.com/DataDruide/secure-chat-messenger) | E2E encrypted chat, PGP + PQC-ready | Flutter · NestJS · PGP | 🟡 Beta |
-| [🛡️ Web Frontend Ripple](https://github.com/DataDruide/flutter-onboarding) | Privacy-first social platform | Flutter · Firebase · Riverpod | 🟡 Beta |
 | [🧠 PflegeBlick](https://github.com/DataDruide/pflegeblick) | Healthcare for patients & caregivers | Flutter · REST · Hive | 🟢 Live |
 
 ---
